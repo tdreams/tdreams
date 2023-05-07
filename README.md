@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤡 About me
+👨🏿‍💻 About me
 - 🌱 programmer dedicated to learning and building amazing things.
 - 🔭 "Passionate about frontend web development, Let's build beautiful and<br/>
 engaging web App experiences together!
